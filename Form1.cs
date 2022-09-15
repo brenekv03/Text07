@@ -31,7 +31,7 @@ namespace Text07
                 }
                 streamReader.Close();
                 streamWriter.Close();
-                File.Delete(openFileDialog1.FileName);
+                //File.Delete(openFileDialog1.FileName);
             }
         }
 
